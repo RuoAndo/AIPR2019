@@ -94,6 +94,16 @@ sys     0m4.848s
 -1.2538806677490124,-0.6377515024534103,0.9071051958003012,-1.428680700225969,-0.1400687201886661,-0.8617548958596855
 </pre>
 
+Building binaries.
+
+<pre>
+# ./build-gpu.sh atomic
+# ./build-gpu.sh fine-coarse
+# ./build-gpu.sh thrust
+<pre>
+
+Script for automating plots.
+
 <pre>
 #!/bin/bash
 
