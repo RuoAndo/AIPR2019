@@ -100,7 +100,7 @@ Building binaries.
 # ./build-gpu.sh atomic
 # ./build-gpu.sh fine-coarse
 # ./build-gpu.sh thrust
-<pre>
+</pre>
 
 Script for automating plots.
 
