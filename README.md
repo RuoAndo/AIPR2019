@@ -1,4 +1,4 @@
-# AIPR2019
+# Clustering (K-Means) with CUDA Thrust
 
 STEP1: Building binaries
 
